@@ -121,7 +121,6 @@ body {
   border: none;
   outline: none;
   cursor: pointer;
-  box-shadow: 9px 9px 18px #dedede, 9px 9px 18px #e2e2e2;
   background-color: var(--dark-cyan);
   transition: all 0.3s ease;
 }
@@ -140,7 +139,7 @@ body {
   .card {
     flex-direction: row;
     max-width: none;
-    width: 500px;
+    width: 600px;
   }
 
   .card-body,
