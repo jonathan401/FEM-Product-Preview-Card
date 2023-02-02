@@ -14,7 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Useful resources](#useful-resources)
 
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/jonathan401/FEM-Product-Preview-Card)
+- Live Site URL: [Vercel Deployed site](https://fem-product-preview-card-beta.vercel.app/)
 
 ### Built with
 
@@ -53,7 +52,3 @@ Box shadow from [Neumorphism.io](https://neumorphism.io/)
 
 - Github - [Jonathan](https://github.com/jonathan401)
 - Frontend Mentor - [@Majay](https://www.frontendmentor.io/profile/jonathan401)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
