@@ -72,12 +72,12 @@ body {
 .card-header {
   font-weight: 700;
   font-family: "Fraunces", serif;
-  font-size: clamp(1.7rem, 3vw, 1.5rem);
+  font-size: clamp(1.6rem, 3vw, 1.9rem);
   color: var(--text-secondary);
 }
 
 .card-content {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: var(--text-primary);
   line-height: 1.5;
   margin-bottom: 1rem;
@@ -135,7 +135,7 @@ body {
 }
 
 /* media query */
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 751px) {
   .card {
     flex-direction: row;
     max-width: none;
@@ -151,8 +151,13 @@ body {
     height: 100%;
   }
 
+  .card-header {
+    max-width: 90%;
+  }
+
   .card-body {
     display: flex;
+    padding: 1.8rem;
     flex-direction: column;
     justify-content: space-evenly;
   }
